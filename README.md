@@ -1,4 +1,4 @@
-# redmine
+# REDMINE
 
 A bash script witch use docker-compose to run Redmine PRM service in less than 1 minute, After installation it's includes some tools that may growth at future.
 

@@ -24,4 +24,4 @@ A bash script witch use docker-compose to run Redmine PRM service in less than 1
 
 
 ## Tools
-
+For now there are just install_plugin tools that will accessable after installation in ~/redmine/tools/, by running script you can enter an url as imput  and the script will install your plugin by itself.
